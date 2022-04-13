@@ -1,0 +1,14 @@
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\bin\Debug\netcoreapp3.1\kullanici.giris.exe
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\bin\Debug\netcoreapp3.1\kullanici.giris.deps.json
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\bin\Debug\netcoreapp3.1\kullanici.giris.runtimeconfig.json
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\bin\Debug\netcoreapp3.1\kullanici.giris.runtimeconfig.dev.json
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\bin\Debug\netcoreapp3.1\kullanici.giris.dll
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\bin\Debug\netcoreapp3.1\kullanici.giris.pdb
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.csproj.AssemblyReference.cache
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.AssemblyInfoInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.AssemblyInfo.cs
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.csproj.CoreCompileInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.dll
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.pdb
+C:\Users\irems\Desktop\Github-Projeler\kullanici\kullanici.giris\obj\Debug\netcoreapp3.1\kullanici.giris.genruntimeconfig.cache
